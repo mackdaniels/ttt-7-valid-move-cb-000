@@ -1,6 +1,6 @@
 # code your #valid_move? method here
 # valid move neeeds to meet two conditions. the first condition is that the position_taken? == false AND the second condition is that the entry from the user is within the range of 1-9
-def valid_move?
+def valid_move?(board, index)
 
 end
 
